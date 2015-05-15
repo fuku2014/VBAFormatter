@@ -1,5 +1,10 @@
 # VBAFormatter
 
+## What's this?
+
+It is a tool that automatically shapes the indentation of VBA code .
+ it will be available as a code formatter .
+This can be used as an Excel add-in .
 ## How to install
 ```bash
 double click 「Install.vbs」
